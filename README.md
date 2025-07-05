@@ -1,7 +1,7 @@
-## 📁 Projects
+## JS Mini Projects
 
 | Project | Description |
-|--------|-------------|-----------|
+|--------|-------------|
 | [GitHub Profile Viewer](https://github.com/Abhinav-Anil-5670/Mini_JS_Projects/tree/main/1.%20github-profile-viewer) | Search any GitHub username to view their profile info. Built using HTML, Tailwind CSS, and JavaScript with GitHub’s public API. |
 
 ---
