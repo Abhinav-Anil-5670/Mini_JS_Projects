@@ -15,3 +15,15 @@
 - Real-time GitHub user lookup using the GitHub API
 - Displays avatar, name, username, bio, repositories, followers, and following
 - Simple, clean UI styled with Tailwind CSS
+
+### 🎬 Movie Finder – Preview
+
+![Movie Finder Screenshot 1](./2.%20movie-app/screenshot1.png)
+![Movie Finder Screenshot 2](./2.%20movie-app/screenshot2.png)
+
+**Features:**
+- Instant movie search using the OMDb API
+- Detailed movie info: Title, Poster, Year, Genre, Plot, Cast, and IMDb rating
+- Seamless transition between search and movie details
+- Built with HTML, Tailwind CSS, and vanilla JavaScript
+
