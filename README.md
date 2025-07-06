@@ -3,6 +3,7 @@
 | S.NO | Project | Description |
 |------|---------|-------------|
 | 1 | [GitHub Profile Viewer](https://github.com/Abhinav-Anil-5670/Mini_JS_Projects/tree/main/1.%20github-profile-viewer) | Search any GitHub username to view their profile info. Built using HTML, Tailwind CSS, and JavaScript with GitHub’s public API. |
+| 2 | [Movie Finder](https://github.com/Abhinav-Anil-5670/Mini_JS_Projects/tree/main/2.%20movie-finder) | Search any movie title and get full details instantly using the OMDb API. Built using HTML, Tailwind CSS, and JavaScript. |
 
 ---
 
