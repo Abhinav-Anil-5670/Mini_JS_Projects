@@ -1,5 +1,3 @@
-
-
 const imdbID = sessionStorage.getItem("selectedMovieID");
 let div2 = document.querySelector("#movieDetails")
 
