@@ -18,8 +18,8 @@
 
 ### 🎬 Movie Finder – Preview
 
-![Movie Finder Screenshot 1](./2.%20movie-finder/screenshot1.png)
-![Movie Finder Screenshot 2](./2.%20movie-finder/screenshot2.png)
+![Movie Finder Screenshot 1](./2.%20movie-finder/Screenshot1.png)
+![Movie Finder Screenshot 2](./2.%20movie-finder/Screenshot2.png)
 
 **Features:**
 - Instant movie search using the OMDb API
