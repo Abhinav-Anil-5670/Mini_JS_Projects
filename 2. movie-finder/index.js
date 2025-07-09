@@ -1,5 +1,3 @@
-
-
 let searchbtn = document.querySelector(".search");
 let submitbtn = document.querySelector(".submit");
 let movie = document.querySelector(".movie");
